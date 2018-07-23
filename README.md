@@ -1,8 +1,8 @@
 DOC v1.0/23 JULY 2018
 
-### FundAlly
+# FundAlly
 
-#### Introduction
+## Introduction
 > This project solves the problem related to resource request chain created by faculties from origin to it's completion.
 It's a project that involves:
 
@@ -14,7 +14,7 @@ It's a project that involves:
 
 It will be used to manage and process the requests created by the faculties.
 
-#### Installation
+## Installation
 
 ### Software Required
 
@@ -22,15 +22,15 @@ It will be used to manage and process the requests created by the faculties.
 2. Java 8+
 3. MySQL 5.6
 
-##### Installation
+### Installation
 
-##### Configuration
+### Configuration
 
-#### Credits
+## Credits
   * Chad (Spring and Hibernate instructor on Udemy)
 
-#### Contact
+## Contact
   * For queries you can contact me on raviprakash.coder@gmail.com
 
-#### License
+## License
 Apache License 2.0. For details please go through the LICENSE file in parent directory or visit http://www.apache.org/licenses/.
