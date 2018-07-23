@@ -16,7 +16,7 @@ It will be used to manage and process the requests created by the faculties.
 
 #### Installation
 
-##### Software Required
+### Software Required
 
 1. Tomcat server 9
 2. Java 8+
