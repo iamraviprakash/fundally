@@ -1,0 +1,64 @@
+#main .col-xs-6{
+    height: 100vh;
+    padding: 30vh 10vw 30vh 10vw;
+}
+#main .col-xs-5{
+    height: 100vh;
+    padding: 30vh 5vw 30vh 5vw;
+}
+#main .verticalBar{
+    height: 40vh;
+    width: 1px;
+    border: 1px solid lightgrey;
+    margin-top: 30vh;
+}
+#main .companyName{
+    font-size: 3.5em; 
+}
+#main .companyName span{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#main .companyName span:nth-child(2){
+    font-weight: bold;
+}
+#main .softwareDescription{
+    font-size: 1.4em;
+    margin: 10px;
+}
+#main .softwareTagline{
+    font-size: 1.2em;
+    margin: 30px 10px 30px 10px;
+}
+#main .softwareTagline div:nth-child(1) span:nth-child(2), #main .softwareTagline div:nth-child(2) span:nth-child(2),
+#main .softwareTagline div:nth-child(2) span:nth-child(4){
+    color: var(--primary-color);
+}
+
+#main .userType{
+    font-weight: bold;
+    font-size: 1.6em;
+    color: var(--primary-color);
+    margin: 40px 10px 40px 10px;
+}
+#main form{
+   text-align: center; 
+}
+#main form input{
+    width: 70%;  
+    color: grey;
+    padding: 5px;
+    margin: 15px 10px 15px 10px;
+    border: 1px solid var(--tertiary-color-3);
+    border-radius: 2px;
+    box-shadow: 0 0 10px 2px var(--tertiary-color-3);
+}
+#main form input[type=submit]{
+    background: var(--primary-color);
+    width: 40%;
+    color: white;
+    border-width: 0px;
+    padding: 10px;
+    margin: 40px;
+}
+    

@@ -1,0 +1,183 @@
+:root{
+    --primary-color:#536DFE;
+    --secondary-color:#303030;
+    --tertiary-color:#787878;
+    --tertiary-color-2: white;
+    --tertiary-color-3: lightgrey;
+    --tertiary-color-4:  #707070;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* header */
+#header{
+    position: fixed;
+    width: 100%;
+	background: var(--secondary-color);
+	z-index: 2;
+    box-shadow: 0px 0px 5px 1.5px var(--tertiary-color);
+}
+#header .material-icons{
+    color:var(--primary-color);
+}
+#header button{
+        outline: none;
+        background: none;
+        border-width: 0px;
+        margin: 15px 5px 10px 5px;
+}
+.logo-text{
+    display: inline-block;
+    font-size: 1.8em;
+    margin: 10.5px 5px 10.5px 5px;
+}
+.logo-text span:nth-child(1){
+    color: white;
+}
+.logo-text span:nth-child(2){
+    color: var(--primary-color);
+    font-weight: bold;
+}
+#header .col-xs-2{
+    color: var(--tertiary-color-2);
+}
+#header .col-xs-10 div{
+    float: right;
+    margin: 15px 10px 15px 10px;
+    font-size: 1.2em;
+    color: white;
+    display: inline-block;
+}
+
+
+/* sidepane */
+
+#sidepane{
+    position: fixed;
+    height: 100vh;
+    z-index: 1;
+    color: var(--tertiary-color-2);
+    background-color: var(--tertiary-color);
+    box-shadow: 0px 0px 5px 1.5px var(--tertiary-color-3);
+}
+#sidepane #profile{
+    margin-top: 50px;
+    text-align: center;
+    padding: 35px;
+    word-wrap: break-word;
+    background: var(--tertiary-color-4);
+}
+#sidepane #profile div:nth-child(1){
+    font-size: 1.2em;
+    max-width: 120px;
+    margin: 10px;
+    font-weight: bold;
+    
+}
+#sidepane #profile div:nth-child(2){
+    font-size: 1em;
+    margin: 10px;
+}
+#sidepane .list{
+    text-align: center;
+    margin-top: 20px;
+}
+#sidepane .list div{
+    font-size: 1.2em;
+    padding: 10px 10px 10px 10px;
+}
+
+#sidepane .list div:hover{
+    background: var(--secondary-color);
+    color: var(--tertiary-color-2);
+}
+
+#sidepane a{
+	color: var(--tertiary-color-2);
+}
+#sidepane a:hover{
+	color: var(--tertiary-color-2);
+	text-decoration: none;
+}
+
+
+/* Main */
+#main .row{
+ 	font-size: 1em;
+ 	padding: 80px 10px 80px 10px;
+ }
+
+table{
+	margin: 20px;
+}
+tr:nth-child(odd){
+	background: WhiteSmoke;
+}
+td{
+	padding:5px;
+	text-align: center;
+}
+th{
+	padding:5px;
+	text-align: center;
+}
+form {
+	margin: auto;
+	display: table;
+}
+form input{
+	display: block;
+	margin: 10px;
+	height: 40px;
+	width: 40vw;
+	min-width: 300px;
+	padding: 5px;
+}
+form select{
+	margin: 10px;
+}
+form textarea{
+	display: block;
+	margin: 10px;
+	height: 40px;
+	width: 40vw;
+	min-width: 300px;
+	padding: 5px;
+}
+.horizontalTable tr:nth-child(odd){
+	background: White;
+}
+.horizontalTable td:nth-child(odd){
+	background: WhiteSmoke;
+}
+.horizontalTable td{
+	text-align: left;	
+}
+
+
+/* footer */
+
+#footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+	background: var(--secondary-color);
+	z-index: 2;
+    color: white;
+    box-shadow: 0px 0px 5px 1.5px var(--tertiary-color);
+}
+#footer .bar{
+    height: 5px;
+    background: var(--primary-color);
+}
+#footer .logo{
+    text-align: right;
+}
+#footer .logo-text{
+   font-size: 1.4em;
+}
+#footer .copyright{
+    margin: 14px 0px 14px 0px;
+}
