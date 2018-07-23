@@ -33,4 +33,4 @@ It will be used to manage and process the requests created by the faculties.
   * For queries you can contact me on raviprakash.coder@gmail.com
 
 #### License
-Apache License 2.0. For License related queries, please go through the LICENSE file in parent directory or visit http://www.apache.org/licenses/.
+Apache License 2.0. For details please go through the LICENSE file in parent directory or visit http://www.apache.org/licenses/.
