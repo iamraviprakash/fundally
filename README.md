@@ -3,7 +3,7 @@ DOC v0.9/23 JULY 2018
 # FundAlly
 
 ## Introduction
-> This project solves the problem related to resource request chain created by faculties from origin to it's completion.
+This project solves the problem related to resource request chain created by faculties from origin to it's completion.
 It's a project that involves:
 
 1. Admin
