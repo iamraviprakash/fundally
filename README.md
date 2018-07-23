@@ -1,3 +1,8 @@
+DOC v1.0/23 JULY 2018
+
+# FundAlly
+
+## Introduction
 This project solves the problem related to resource request chain created by faculties from origin to completion.
 It's a project that involves:
 
@@ -9,8 +14,20 @@ It's a project that involves:
 
 It will be used to manage and process the requests created by the faculty.
 
-Software Required:
+## Installation
+
+### Software Required
 
 1. Tomcat server 9
 2. Java 8+
 3. MySQL 5.6
+
+### Installation
+
+### Configuration
+
+## Credits
+
+## Contact
+
+## Licence
