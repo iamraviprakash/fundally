@@ -27,9 +27,10 @@ It will be used to manage and process the requests created by the faculties.
 #### Configuration
 
 #### Credits
-  1. Chad (Spring and Hibernate instructor on Udemy)
+  * Chad (Spring and Hibernate instructor on Udemy)
 
 #### Contact
   * For queries you can contact me on raviprakash.coder@gmail.com
 
-#### Licence
+#### License
+Apache 2.0 License. For License related queries, please go through the License document.
