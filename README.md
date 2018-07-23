@@ -1,4 +1,4 @@
-DOC v1.0/23 JULY 2018
+DOC v0.9/23 JULY 2018
 
 # FundAlly
 
@@ -27,7 +27,7 @@ It will be used to manage and process the requests created by the faculties.
 ### Configuration
 
 ## Credits
-  * Chad (Spring and Hibernate instructor on Udemy)
+  * Chad Darby(Spring and Hibernate instructor on Udemy)
 
 ## Contact
   * For queries you can contact me on raviprakash.coder@gmail.com
