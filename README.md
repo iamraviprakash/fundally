@@ -16,15 +16,15 @@ It will be used to manage and process the requests created by the faculties.
 
 #### Installation
 
-###### Software Required
+##### Software Required
 
 1. Tomcat server 9
 2. Java 8+
 3. MySQL 5.6
 
-#### Installation
+##### Installation
 
-#### Configuration
+##### Configuration
 
 #### Credits
   * Chad (Spring and Hibernate instructor on Udemy)
@@ -33,4 +33,4 @@ It will be used to manage and process the requests created by the faculties.
   * For queries you can contact me on raviprakash.coder@gmail.com
 
 #### License
-Apache 2.0 License. For License related queries, please go through the License document.
+Apache License 2.0. For License related queries, please go through the License document.
