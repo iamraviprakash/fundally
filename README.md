@@ -12,7 +12,7 @@ It's a project that involves interfaces for the following users:
 4. Procurement
 5. Chief Administrator
 
-Each of the above user has a specific role in the overall project. The role description can be found in the README.md of respective directory.
+Each of the above user has a specific role in the overall project. The role description and use cases can be found in the README.md of respective directory.
 
 ## Installation
 
@@ -23,9 +23,12 @@ Each of the above user has a specific role in the overall project. The role desc
 4. IDE e.g. Eclipse(recommended) or Netbeans
 
 ### Installation
-
+   <!-- Installation of external softwares. -->
 
 ### Configuration
+   <!-- It deals with project deployment. -->
+
+## How to Use
 
 
 ## Credits
@@ -35,4 +38,4 @@ Each of the above user has a specific role in the overall project. The role desc
   * For queries you can contact me on raviprakash.coder@gmail.com
 
 ## License
-Apache License 2.0. For details please go through the LICENSE file in parent directory or visit http://www.apache.org/licenses/.
+Apache License 2.0. For details please go through the LICENSE file in the parent directory or visit http://www.apache.org/licenses/.
