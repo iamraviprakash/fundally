@@ -49,6 +49,11 @@ Follow the steps below to install Eclipse.
 2. Extract the tar file in a required directory(e.g. $HOME or /usr/local)
 3. Go to the root directory and execute the eclipse application by clicking on it.
 
+#### Install MySQL
+Follow the tutorial given in the link below.
+
+    https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
+
 
 #### Import Eclipse project
 1. Put the above six mentioned directories (e.g. adminFundAlly, facultyFundAlly etc.) to eclipse-workspace.
@@ -61,9 +66,12 @@ Follow the steps below to install Eclipse.
 
 ### Configuration
    <!-- It deals with project deployment. -->
+   <!-- configure database -->
+   <!-- deploy on tomcat server via manager app -->
+
 
 ## Getting started
-
+  <!-- How to use app -->
 
 ## Credits
   * Chad Darby(Spring and Hibernate instructor on Udemy)
