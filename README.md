@@ -13,7 +13,6 @@ It's a project that involves interfaces for the following users:
 5. Chief Administrator (dir: chiefAdminFundAlly)
 6. User Accounts (dir: accountsFundAlly)
 
-Each of the above user has a specific role in the overall project. The role description and use cases can be found in the README.md of respective directory.
 
 ## Installation
 
@@ -41,12 +40,12 @@ Follow the tutorial given in the link below.
     https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
 
 #### Install Eclipse
-Follow the steps below to install Eclipse.
-1. Download the recommended Eclipse version(i.e. Oxygen 64bit) from the official website.
+Follow the steps below to install `Eclipse`.
+1. Download the recommended `Eclipse` version(i.e. Oxygen 64bit) from the official website.
 
         https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R2/eclipse-inst-linux64.tar.gz
 
-2. Extract the tar file in a required directory(e.g. $HOME or /usr/local)
+2. Extract the tar file in a required directory(e.g. `$HOME` or `/usr/local`)
 3. Go to the root directory and execute the eclipse application by clicking on it.
 
 #### Install MySQL
@@ -56,12 +55,12 @@ Follow the tutorial given in the link below.
 
 
 #### Import Eclipse project
-1. Put the above six mentioned directories (e.g. adminFundAlly, facultyFundAlly etc.) to eclipse-workspace.
-2. Select File->Import. The Import Dialog box will appear.
-3. Go to General->Existing Projects into Workspace. Select Next to proceed.
-4. Choose eclipse-workspace as root directory.
-5. Complete the following by keeping defaults. Atlast select Finish.
-6. The project will be imported to the Eclipse.
+1. Put the above six mentioned directories (e.g. adminFundAlly, facultyFundAlly etc.) to `eclipse-workspace`.
+2. Select **File**->**Import**. The Import Dialog box will appear.
+3. Go to **General**->**Existing Projects into Workspace**. Select Next to proceed.
+4. Choose `eclipse-workspace` as root directory.
+5. Complete the following by keeping defaults. At last select Finish.
+6. The project will be imported to the `Eclipse`.
 
 
 ### Configuration
@@ -72,12 +71,15 @@ Follow the tutorial given in the link below.
 
 ## Getting started
   <!-- How to use app -->
+  Each of the user mentioned in the **Introduction** has a specific role in the overall project. The role description and use cases can be found in the README.md of respective directory.
 
 ## Credits
-  * Chad Darby(Spring and Hibernate instructor on Udemy)
+  * Chad Darby(`Spring` and `Hibernate` instructor on Udemy)
 
 ## Contact
   * For queries you can contact me on raviprakash.coder@gmail.com
 
 ## License
-Apache License 2.0. For details please go through the LICENSE file in the parent directory or visit http://www.apache.org/licenses/.
+Apache License 2.0. For details please go through the LICENSE file in the parent directory or visit
+
+    http://www.apache.org/licenses/.
